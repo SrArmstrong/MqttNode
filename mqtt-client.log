@@ -1,0 +1,98 @@
+2025-06-25 17:23:13 [ERROR] ❌ Error MQTT:
+2025-06-25 17:23:13 [ERROR] ❌ Error MQTT:
+2025-06-25 17:23:14 [ERROR] ❌ Error MQTT:
+2025-06-25 17:23:14 [ERROR] ❌ Error MQTT:
+2025-06-25 17:23:15 [ERROR] ❌ Error MQTT:
+2025-06-25 17:23:15 [ERROR] ❌ Error MQTT:
+2025-06-25 17:23:17 [ERROR] ❌ Error MQTT:
+2025-06-25 17:23:17 [ERROR] ❌ Error MQTT:
+2025-06-25 17:23:18 [ERROR] ❌ Error MQTT:
+2025-06-25 17:23:18 [ERROR] ❌ Error MQTT:
+2025-06-25 17:23:18 [ERROR] ❌ Cliente no conectado. No se puede publicar mensaje.
+2025-06-25 17:23:19 [ERROR] ❌ Error MQTT:
+2025-06-25 17:23:19 [ERROR] ❌ Error MQTT:
+2025-06-25 17:23:20 [ERROR] ❌ Error MQTT:
+2025-06-25 17:23:20 [ERROR] ❌ Error MQTT:
+2025-06-25 17:23:21 [ERROR] ❌ Error MQTT:
+2025-06-25 17:23:21 [ERROR] ❌ Error MQTT:
+2025-06-25 17:23:22 [ERROR] ❌ Error MQTT:
+2025-06-25 17:23:22 [ERROR] ❌ Error MQTT:
+2025-06-25 17:23:23 [ERROR] ❌ Error MQTT:
+2025-06-25 17:23:23 [ERROR] ❌ Error MQTT:
+2025-06-25 17:23:25 [ERROR] ❌ Error MQTT:
+2025-06-25 17:23:25 [ERROR] ❌ Error MQTT:
+2025-06-25 17:23:26 [ERROR] ❌ Error MQTT:
+2025-06-25 17:23:26 [ERROR] ❌ Error MQTT:
+2025-06-25 17:23:27 [ERROR] ❌ Error MQTT:
+2025-06-25 17:23:27 [ERROR] ❌ Error MQTT:
+2025-06-25 17:23:28 [ERROR] ❌ Error MQTT:
+2025-06-25 17:23:28 [ERROR] ❌ Error MQTT:
+2025-06-25 17:23:29 [ERROR] ❌ Error MQTT:
+2025-06-25 17:23:29 [ERROR] ❌ Error MQTT:
+2025-06-25 17:23:30 [ERROR] ❌ Error MQTT:
+2025-06-25 17:23:30 [ERROR] ❌ Error MQTT:
+2025-06-25 17:23:31 [ERROR] ❌ Error MQTT:
+2025-06-25 17:23:31 [ERROR] ❌ Error MQTT:
+2025-06-25 17:23:58 [ERROR] ❌ Error suscribiéndose a tópicos: Subscribe error: Unspecified error
+ErrorWithSubackPacket: Subscribe error: Unspecified error
+    at cb (C:\Users\sergi\OneDrive\Escritorio\Desarrollo Web\mqtt-nodejs-client\node_modules\mqtt\build\lib\client.js:528:36)
+    at handleAck (C:\Users\sergi\OneDrive\Escritorio\Desarrollo Web\mqtt-nodejs-client\node_modules\mqtt\build\lib\handlers\ack.js:113:13)
+    at handle (C:\Users\sergi\OneDrive\Escritorio\Desarrollo Web\mqtt-nodejs-client\node_modules\mqtt\build\lib\handlers\index.js:36:31)
+    at work (C:\Users\sergi\OneDrive\Escritorio\Desarrollo Web\mqtt-nodejs-client\node_modules\mqtt\build\lib\client.js:238:40)
+    at writable._write (C:\Users\sergi\OneDrive\Escritorio\Desarrollo Web\mqtt-nodejs-client\node_modules\mqtt\build\lib\client.js:263:13)
+    at writeOrBuffer (C:\Users\sergi\OneDrive\Escritorio\Desarrollo Web\mqtt-nodejs-client\node_modules\readable-stream\lib\internal\streams\writable.js:336:12)
+    at _write (C:\Users\sergi\OneDrive\Escritorio\Desarrollo Web\mqtt-nodejs-client\node_modules\readable-stream\lib\internal\streams\writable.js:285:10)
+    at Writable.write (C:\Users\sergi\OneDrive\Escritorio\Desarrollo Web\mqtt-nodejs-client\node_modules\readable-stream\lib\internal\streams\writable.js:288:10)
+    at TLSSocket.ondata (node:internal/streams/readable:1009:22)
+    at TLSSocket.emit (node:events:524:28)
+2025-06-25 17:28:23 [ERROR] ❌ Error suscribiéndose a tópicos: Subscribe error: Unspecified error
+ErrorWithSubackPacket: Subscribe error: Unspecified error
+    at cb (C:\Users\sergi\OneDrive\Escritorio\Desarrollo Web\mqtt-nodejs-client\node_modules\mqtt\build\lib\client.js:528:36)
+    at handleAck (C:\Users\sergi\OneDrive\Escritorio\Desarrollo Web\mqtt-nodejs-client\node_modules\mqtt\build\lib\handlers\ack.js:113:13)
+    at handle (C:\Users\sergi\OneDrive\Escritorio\Desarrollo Web\mqtt-nodejs-client\node_modules\mqtt\build\lib\handlers\index.js:36:31)
+    at work (C:\Users\sergi\OneDrive\Escritorio\Desarrollo Web\mqtt-nodejs-client\node_modules\mqtt\build\lib\client.js:238:40)
+    at writable._write (C:\Users\sergi\OneDrive\Escritorio\Desarrollo Web\mqtt-nodejs-client\node_modules\mqtt\build\lib\client.js:263:13)
+    at writeOrBuffer (C:\Users\sergi\OneDrive\Escritorio\Desarrollo Web\mqtt-nodejs-client\node_modules\readable-stream\lib\internal\streams\writable.js:336:12)
+    at _write (C:\Users\sergi\OneDrive\Escritorio\Desarrollo Web\mqtt-nodejs-client\node_modules\readable-stream\lib\internal\streams\writable.js:285:10)
+    at Writable.write (C:\Users\sergi\OneDrive\Escritorio\Desarrollo Web\mqtt-nodejs-client\node_modules\readable-stream\lib\internal\streams\writable.js:288:10)
+    at TLSSocket.ondata (node:internal/streams/readable:1009:22)
+    at TLSSocket.emit (node:events:524:28)
+2025-06-25 17:51:27 [ERROR] ❌ Error MQTT:
+2025-06-25 17:52:08 [ERROR] ❌ Error MQTT:
+2025-06-25 19:07:54 [ERROR] ❌ Error MQTT:
+2025-06-25 19:07:56 [ERROR] ❌ Error MQTT:
+2025-06-25 19:07:56 [ERROR] 🌐 Error de DNS: No se puede resolver el hostname del broker
+2025-06-25 19:07:56 [ERROR] ❌ Error MQTT:
+2025-06-25 19:07:56 [ERROR] 🌐 Error de DNS: No se puede resolver el hostname del broker
+2025-06-25 19:07:57 [ERROR] ❌ Error MQTT:
+2025-06-25 19:07:57 [ERROR] 🌐 Error de DNS: No se puede resolver el hostname del broker
+2025-06-25 19:07:57 [ERROR] ❌ Error MQTT:
+2025-06-25 19:07:57 [ERROR] 🌐 Error de DNS: No se puede resolver el hostname del broker
+2025-06-25 19:07:58 [ERROR] ❌ Error MQTT:
+2025-06-25 19:07:58 [ERROR] 🌐 Error de DNS: No se puede resolver el hostname del broker
+2025-06-25 19:07:58 [ERROR] ❌ Error MQTT:
+2025-06-25 19:07:58 [ERROR] 🌐 Error de DNS: No se puede resolver el hostname del broker
+2025-06-25 19:07:59 [ERROR] ❌ Error MQTT:
+2025-06-25 19:07:59 [ERROR] 🌐 Error de DNS: No se puede resolver el hostname del broker
+2025-06-25 19:07:59 [ERROR] ❌ Error MQTT:
+2025-06-25 19:07:59 [ERROR] 🌐 Error de DNS: No se puede resolver el hostname del broker
+2025-06-25 19:08:00 [ERROR] ❌ Error MQTT:
+2025-06-25 19:08:00 [ERROR] 🌐 Error de DNS: No se puede resolver el hostname del broker
+2025-06-25 19:08:00 [ERROR] ❌ Error MQTT:
+2025-06-25 19:08:00 [ERROR] 🌐 Error de DNS: No se puede resolver el hostname del broker
+2025-06-25 19:08:01 [ERROR] ❌ Error MQTT:
+2025-06-25 19:08:01 [ERROR] 🌐 Error de DNS: No se puede resolver el hostname del broker
+2025-06-25 19:08:01 [ERROR] ❌ Error MQTT:
+2025-06-25 19:08:01 [ERROR] 🌐 Error de DNS: No se puede resolver el hostname del broker
+2025-06-25 19:08:02 [ERROR] ❌ Error MQTT:
+2025-06-25 19:08:02 [ERROR] 🌐 Error de DNS: No se puede resolver el hostname del broker
+2025-06-25 19:08:02 [ERROR] ❌ Error MQTT:
+2025-06-25 19:08:02 [ERROR] 🌐 Error de DNS: No se puede resolver el hostname del broker
+2025-06-25 19:08:03 [ERROR] ❌ Error MQTT:
+2025-06-25 19:08:03 [ERROR] 🌐 Error de DNS: No se puede resolver el hostname del broker
+2025-06-25 19:08:03 [ERROR] ❌ Error MQTT:
+2025-06-25 19:08:03 [ERROR] 🌐 Error de DNS: No se puede resolver el hostname del broker
+2025-06-25 19:08:04 [ERROR] ❌ Error MQTT:
+2025-06-25 19:08:04 [ERROR] 🌐 Error de DNS: No se puede resolver el hostname del broker
+2025-06-25 19:08:04 [ERROR] ❌ Error MQTT:
+2025-06-25 19:08:04 [ERROR] 🌐 Error de DNS: No se puede resolver el hostname del broker
