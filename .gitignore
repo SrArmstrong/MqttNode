@@ -1,2 +1,2 @@
-/certificates/emqzsl_ca.pem
+/certificates/*.pem
 /node_modules/
